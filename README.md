@@ -1,14 +1,14 @@
 # Dynamic Multi-Category Catalog
 
-## 🚀 Live Demo
+##  Live Demo
 [Live Link Here]
 
-## 📂 GitHub Repository
+## GitHub Repository
 [Repo Link Here]
 
 ---
 
-## ✨ Features
+## Features
 
 - Dynamic category-based rendering
 - JSON-driven UI architecture
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - React JS
 - React Router DOM
@@ -33,7 +33,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - components/
 - pages/
@@ -42,7 +42,7 @@
 
 ---
 
-## 📌 Key Concepts Used
+## Key Concepts Used
 
 - Dynamic rendering with map()
 - Data grouping using reduce()
@@ -53,7 +53,7 @@
 
 ---
 
-## ⚡ Installation
+## Installation
 
 ```bash
 npm install
