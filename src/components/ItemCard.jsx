@@ -40,7 +40,7 @@ function ItemCard({ item }) {
           src={item.image}
           alt={item.itemname}
           loading="lazy"
-           className="card-image"
+           className="card-image loaded"
         />
 
         <div className="item-card-content">

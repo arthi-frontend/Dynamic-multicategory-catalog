@@ -2,7 +2,7 @@
 # Dynamic Multi-Category Catalog
 
 ##  Live Demo
-
+https://dynamic-multicategory-catalog.vercel.app/
 
 ## GitHub Repository
 (https://github.com/arthi-frontend/Dynamic-multicategory-catalog.git)
