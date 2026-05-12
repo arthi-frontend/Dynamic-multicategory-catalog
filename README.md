@@ -60,4 +60,3 @@
 npm install
 npm run dev
 ```
->>>>>>> c32b2ab4cd5175ba80e0af6e0e0a10f84ab947fc
